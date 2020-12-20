@@ -1,6 +1,8 @@
 ## Good day.
 Some language frequency to make my profile look less boring.
-![Lang Frequency](https://github-readme-stats.vercel.app/api/top-langs/?username=Forgi4G&theme=tokyonight)  
+<a href="https://github.com/Forgi4G/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forgi4G&theme=tokyonight" alt="Lang Frequency"/>
+</a>
 
 ## Projects in Progress:
 - [Megabot Remake](https://github.com/Forgi4G/Megabot-Remake)
