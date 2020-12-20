@@ -1,4 +1,4 @@
-### Hi there 👋
+### Good day.
 
 ![Lang Frequency](https://github-readme-stats.vercel.app/api/top-langs/?username=Forgi4G&theme=tokyonight)
 <!--
