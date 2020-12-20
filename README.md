@@ -10,7 +10,7 @@ Some language frequency to make my profile look less boring.
 ## Notable Contributions
 - [Bug Report Tool](https://github.com/TestersQTs/bug-report-tool)
 - [DBug Clone](https://github.com/y3ll0wlife/DBug-clone)
--=
+
 
 <!--
 **Forgi4G/Forgi4G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
