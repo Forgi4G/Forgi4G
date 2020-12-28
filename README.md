@@ -1,5 +1,6 @@
 ## Good day.
 Some language frequency to make my profile look less boring.  
+![https://komarev.com/ghpvc/?username=Forgi4G&label=people+who%27ve+seen+this&color=ee86a4]()
 <a href="https://github.com/Forgi4G/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forgi4G&theme=tokyonight" alt="Lang Frequency"/>
 </a>
