@@ -1,5 +1,5 @@
 ## Good day.
-![](https://komarev.com/ghpvc/?username=Forgi4G&label=people+who%27ve+seen+this&color=ee86a4)   
+![](https://komarev.com/ghpvc/?username=Forgi4G&label=people+who%27ve+seen+this&color=0ffcd1)   
    
 Some language frequency to make my profile look less boring.   
 <a href="https://github.com/Forgi4G/">
