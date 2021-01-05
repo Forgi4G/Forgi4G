@@ -7,6 +7,7 @@ Some language frequency to make my profile look less boring.
 </a>
 
 ## Projects in Progress:
+- [TiN](https://github.com/Forgi4G/TiN)  
 - [Megabot Remake](https://github.com/Forgi4G/Megabot-Remake)
 - [Discord C2T](https://github.com/Forgi4G/Discord-C2T)
 ## Notable Contributions
