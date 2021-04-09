@@ -9,7 +9,9 @@ I make things and they make things happen.
 -->
 
 ## Projects in Progress:
+- [DVersion-Data-Workarounds](https://github.com/Forgi4G/DVersion-Data-Workarounds)
 - [TiN](https://github.com/Forgi4G/TiN)  
+- [HTTPrototype-Implementation](https://github.com/Forgi4G/HTTPrototype-Implementation)
 - [Megabot Remake](https://github.com/Forgi4G/Megabot-Remake)
 - [Discord C2T](https://github.com/Forgi4G/Discord-C2T)
 ## Notable Contributions
